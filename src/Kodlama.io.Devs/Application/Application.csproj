@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Features\ProgrammingLanguages\Constans\" />
+    <Folder Include="Features\Technologyies\Constans\" />
+    <Folder Include="Features\Technologyies\Queries\GetListTechnologyByDynamic\" />
   </ItemGroup>
 
   <ItemGroup>
